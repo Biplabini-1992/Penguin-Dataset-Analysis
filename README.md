@@ -1,12 +1,13 @@
 # Penguin-Dataset-Analysis
-# Dataset Information:
 
-This dataset is based on the information about three species of penguins('Adelie','Gentoo','Chinstrap') and various characteristics including their bill_length, bill_depth,flipper_length, body_mass and sex.
-The classification goal is to predict the species of penguins based on certain feature.
 # Source:
 
 please check the description at: http://localhost:8888/edit/penguin%20dataset.csv
 
+# Dataset Information:
+
+This dataset is based on the information about three species of penguins('Adelie','Gentoo','Chinstrap') and various characteristics including their bill_length, bill_depth,flipper_length, body_mass and sex.
+The classification goal is to predict the species of penguins based on certain feature.
 
 # Feature Information:
 
